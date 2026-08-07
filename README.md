@@ -11,7 +11,7 @@
 - 💬 **Ask me about:** Java, JavaScript, HTML, CSS, MongoDB, Python, SQL, Docker  
 - 📫 **Reach me at:** *manujaravishka2004@gmail.com*  
 
----
+--
 
 ### 🌐 Connect with Me  
 <p align="left">

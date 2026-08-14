@@ -34,5 +34,5 @@
   "status": "ONLINE",
   "mission": "Engineering the Future",
   "base": "Sri Lanka",
-  "stack": ["Java","python", "React", "Spring_Boot","next", "UI/UX"]
+  "stack": ["Java","python ", "React", "Spring_Boot","next", "UI/UX"]
 }

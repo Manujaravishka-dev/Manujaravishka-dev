@@ -2,6 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" width="100%" height="160px" style="object-fit: cover; border-radius: 12px; opacity: 0.85;" />
 
+
 # ⚡ MANUJA RAVISHKA
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;UI%2FUX+Brand+Designer;Tech+Innovator" alt="Typing SVG" /></a>
 
@@ -33,5 +34,5 @@
   "status": "ONLINE",
   "mission": "Engineering the Future",
   "base": "Sri Lanka",
-  "stack": ["Java", "React", "Spring Boot", "UI/UX"]
+  "stack": ["Java", "React", "Spring Boot","next", "UI/UX"]
 }
